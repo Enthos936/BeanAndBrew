@@ -7,8 +7,14 @@
   },
   "author": "",
   "license": "ISC",
-  "description": "",
+  "description": "��#\u0000 \u0000B\u0000e\u0000a\u0000n\u0000A\u0000n\u0000d\u0000B\u0000r\u0000e\u0000w\u0000\r\u0000 \u0000",
   "devDependencies": {
     "tailwindcss": "^3.4.10"
-  }
+  },
+  "dependencies": {
+    "mysql": "^2.18.1",
+    "tailwind-scrollbar": "^3.1.0",
+    "tailwind-scrollbar-hide": "^1.1.7"
+  },
+  "keywords": []
 }
